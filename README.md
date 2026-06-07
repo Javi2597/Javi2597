@@ -50,15 +50,15 @@ Me especializo en llevar negocios locales al mundo digital: desde la web hasta l
 
 ---
 
-## 📂 Proyectos destacados
-
-| Proyecto | Descripción | Tech |
-|---|---|---|
-| 🔧 [MecanoCAR](https://github.com/Javi2597/taller-mecanoCAR) | Web completa para taller mecánico en Buenos Aires — turnos, servicios y contacto | TypeScript, Next.js |
-| 🤖 [Bot Turnos Dr. Rossi](https://github.com/Javi2597/bot-turnos-dr-rossi) | Bot de WhatsApp para gestión de turnos médicos | TypeScript |
-| 🧴 [Gordo Perfumes](https://github.com/Javi2597/gordo-perfumes-ar) | Catálogo de fragancias con consulta directa por WhatsApp | TypeScript |
-| 📦 [Calculadora Envíos](https://github.com/Javi2597/calculadora.envios.codigopostal) | Calculadora de costos de envío por código postal para Argentina — offline, sin dependencias | JavaScript |
-
+| Proyecto | Descripción | Demo | Tech |
+|---|---|---|---|
+| 💅 [Aura Nails](https://github.com/Javi2597/aura-nails) | Landing page para salón de manicuría con sistema de turnos online integrado con Google Calendar via OAuth 2.0 | [↗](https://aura-nails.vercel.app) | React, Node.js, Tailwind |
+| 🔧 [MecanoCAR](https://github.com/Javi2597/taller-mecanoCAR) | Web completa para taller mecánico en Buenos Aires — servicios, chapa y pintura, contacto y presupuesto sin cargo | [↗](https://taller-mecanocar.vercel.app) | TypeScript, Next.js |
+| 🤖 [Bot Turnos Dr. Rossi](https://github.com/Javi2597/bot-turnos-dr-rossi) | Sitio de gestión de turnos para consultorio médico | [↗](https://bot-turnos-dr-rossi.vercel.app) | Astro, TypeScript, Tailwind |
+| 🧴 [Gordo Perfumes](https://github.com/Javi2597/gordo-perfumes-ar) | Catálogo de fragancias de autor con consulta directa por WhatsApp | [↗](https://gordo-perfumes-ar.vercel.app) | TypeScript |
+| ❄️ [FrioCAM](https://github.com/Javi2597/frioCAM) | Cotizador y agenda de service logístico de frío | [↗](https://frio-cam-cotizadora-agenda.vercel.app) | TypeScript |
+| 🌐 [Totalservice](https://github.com/Javi2597/totalservice-demo-web) | Demo web para empresa de servicios | [↗](https://totalservice-demo-web.vercel.app) | React, Vite, Tailwind |
+| 📦 [Calculadora Envíos](https://github.com/Javi2597/calculadora.envios.codigopostal) | Calculadora de costos de envío por código postal para Argentina — offline, sin dependencias | — | JavaScript |
 ---
 
 ## 📈 GitHub Stats

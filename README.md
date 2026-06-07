@@ -21,7 +21,6 @@ Me especializo en llevar negocios locales al mundo digital: desde la web hasta l
 
 - 🏙️ Buenos Aires, Argentina
 - 🔭 Actualmente construyendo plataformas web para pymes locales
-- ⚡ Automatizo procesos con **n8n** para escalar sin contratar
 - 📦 Publico infoproductos sobre desarrollo web en Hotmart y Gumroad
 
 ---

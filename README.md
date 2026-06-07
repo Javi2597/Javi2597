@@ -65,7 +65,7 @@ Me especializo en llevar negocios locales al mundo digital: desde la web hasta l
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javi2597&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF4D00&icon_color=FF4D00&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javi2597&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF4D00&icon_color=FF4D00&text_color=ffffff&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javi2597&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF4D00&text_color=ffffff)
 

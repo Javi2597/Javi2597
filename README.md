@@ -57,7 +57,7 @@ Me especializo en llevar negocios locales al mundo digital: desde la web hasta l
 | 🧴 [Gordo Perfumes](https://github.com/Javi2597/gordo-perfumes-ar) | Catálogo de fragancias de autor con consulta directa por WhatsApp | [↗](https://gordo-perfumes-ar.vercel.app) | TypeScript |
 | ❄️ [FrioCAM](https://github.com/Javi2597/frioCAM) | Cotizador y agenda de service logístico de frío | [↗](https://frio-cam-cotizadora-agenda.vercel.app) | TypeScript |
 | 🌐 [Totalservice](https://github.com/Javi2597/totalservice-demo-web) | Demo web para empresa de servicios | [↗](https://totalservice-demo-web.vercel.app) | React, Vite, Tailwind |
-| 📦 [Calculadora Envíos](https://github.com/Javi2597/calculadora.envios.codigopostal) | Calculadora de costos de envío por código postal para Argentina — offline, sin dependencias | [↗][(https://javi2597.github.io/calculadora.envios.codigopostal/)]) | JavaScript |
+| 📦 [Calculadora Envíos](https://github.com/Javi2597/calculadora.envios.codigopostal) | Calculadora de costos de envío por código postal para Argentina — offline, sin dependencias | [↗](https://javi2597.github.io/calculadora.envios.codigopostal/) | JavaScript |
 ---
 
 ## 📈 GitHub Stats
